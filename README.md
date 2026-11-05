@@ -1,7 +1,7 @@
 
 # The MealDB API-powered mock restaurant webpage
 
-Built as the first Capstone Project of my Full-Stack Web Development course, this webpage uses user input to fetch a random meal from [The MealDB API] (https://www.themealdb.com/), displays it, and allows users to mark requested meals as complete. The user may also pick from a list of suggested ingredients, or leave the restaurant politely or rudely when an ingredient is not available.
+Built as the first Capstone Project of my Full-Stack Web Development course, this webpage uses user input to fetch a random meal from [The MealDB API](https://www.themealdb.com/), displays it, and allows users to mark requested meals as complete. The user may also pick from a list of suggested ingredients, or leave the restaurant politely or rudely when an ingredient is not available.
 
 The project uses HTML, CSS, JavaScript, external fonts, and an external API.
 ## Installation
